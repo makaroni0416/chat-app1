@@ -22,11 +22,12 @@
   text-decoration: none;
 }
 
-.create-room a{
+.create-room a {
   font-size: 10px;
   color: deepskyblue;
   border: 1px solid lightblue;
-  text-decoration: none ;
+  padding: 14px;
+  text-decoration: none;
 }
 
 .rooms {
